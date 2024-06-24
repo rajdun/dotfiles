@@ -1,0 +1,6 @@
+[submodule "nvim-config"]
+	path = nvim-config
+	url = https://github.com/rajdun/nvim-config
+[submodule "i3-config"]
+	path = i3-config
+	url = https://github.com/rajdun/i3-config
